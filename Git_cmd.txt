@@ -1,0 +1,6 @@
+git version->git version in sys
+git statsu->git status releated to file tracking
+git init->create local dir in sys
+git add->add file in staging ready to commit
+git commit->sae the file in local git dir in sys
+git pull->pull data from remote dir to local git dir
